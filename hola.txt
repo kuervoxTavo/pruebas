@@ -1,7 +1,20 @@
 hola
 
 gustavo hablemos de histori
+<<<<<<< HEAD
 esta es la rama maestra de aqui partimos 
  esperamos q me natega los cambio
 
  o choca 
+=======
+
+estamos editanfo la cabecera del archivo
+
+gop 
+
+esperemos quede
+
+
+este es un cabio de la cabecera
+ ya para terminar
+>>>>>>> cabecera
