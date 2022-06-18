@@ -1,2 +1,2 @@
 # pruebas
-prueba de conexion base datos
+prueba de conexion
